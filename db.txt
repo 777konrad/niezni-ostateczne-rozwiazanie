@@ -1,0 +1,1 @@
+szef zmienia sposob z baza danych z sql na nosql
